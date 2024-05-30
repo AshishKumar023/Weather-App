@@ -19,7 +19,7 @@ This is a simple weather application that allows users to check the current weat
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/AshishKumar023/weather-app.git
     cd weather-app
     ```
 
